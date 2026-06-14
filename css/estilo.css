@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+div.col-md-4 img {
+    aspect-ratio: 16/9;
+}
+
+footer {
+    margin-top: 50px;
+}
